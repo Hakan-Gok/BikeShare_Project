@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # edit test
+||||||| fc62f3b
+=======
+# edit test
+# edit test2
+>>>>>>> 74c895a58d0eef0c8d3b5be518a14ee0b7a5a696
 import time
 import pandas as pd
 import numpy as np
