@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-# BikeShare_Project
-# edit README file
-# edit2 README file
-||||||| fc62f3b
-# BikeShare_Project
-=======
-# BikeShare_Project
-# edit Readmme 
-# edit2 Readmme 
-# edit3 Readmme 
->>>>>>> 74c895a58d0eef0c8d3b5be518a14ee0b7a5a696
+# Date created 30.09.2020 Include the date you created this project and README file.
+# Project Title Udacity Bikeshare project for Udacity 092020
+# Description This document prepare for udacity learning programme final project
+# Files used Include the files used.Bikeshare projects csv files not included
+# Credits Thank you Udacity Education Team. https://www.udacity.com/ You can use github https://www.github.com/
